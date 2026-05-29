@@ -1,1 +1,2 @@
-echo "welcome to demo project"
+echo "welcome to demo pro
+echo "new after edit and commit"
